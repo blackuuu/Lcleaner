@@ -1,0 +1,2 @@
+# Lcleaner
+Simple league cleaner.
